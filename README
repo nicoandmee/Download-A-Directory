@@ -1,0 +1,21 @@
+What is it?
+It is a small utility that downloads all files within a web (http) directory and saves them to the local disk, or a folder of your choice. It uses Async method to download the files, and has a progress bar to show the dl progress.
+
+Why is it useful?
+It is good for downloading large http directories full of interesting files like music, books, porn, etc. (Without having to click every single one).
+
+How do I use it?
+Enter url in format: "http://fakesite.net/music/"
+ALWAYS RUN AS ADMINISTRATOR. 
+If you want to save in specific folder, just add the path AFTER C:\ (example: put in photos/trip/ inside textbox if this directory was in the root of your drive)
+
+Where do I get it?
+http://www.filedropper.com/downloadadirectory
+
+What can I test it on?
+Try http://www.sciencemadness.org/library/books/ (huge amount of books)
+
+Credits:
+Me (all of the code)
+MSDN (reference for methods)
+DREAMINCODE Forum Tutorial (Progressbar integration snippet)
